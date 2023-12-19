@@ -1,7 +1,8 @@
 # Potência Tech iFood - Desenvolvimento de Jogos
 # Jogo de Cartas do Yu-Gi-Oh
 
-
+## Uma demonstração da execução do código pode ser visto no link:
+- https://gdmacedo.github.io/JogoDCartas/
 
 ## Conteúdo
 - Configurando o Projeto Base
